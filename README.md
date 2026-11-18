@@ -1,7 +1,7 @@
 
 # Hi, I'm José Daniel Celis Lozano 
 
-### Junior Data Scientist | Python | SQL | Machine Learning
+### Data Scientist | Python | SQL | Machine Learning
 
 I'm a Data Science student based in Bogotá, Colombia, focused on transforming data into useful insights and solving problems through analytical and machine learning techniques.
 
