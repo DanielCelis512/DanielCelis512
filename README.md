@@ -54,7 +54,7 @@ I'm particularly interested in **Data Science, Business Analytics, and Game Anal
 
 ## Featured Projects
 
-### 🎾 Tennis Performance Dashboard
+### Tennis Performance Dashboard
 An interactive dashboard developed to explore tennis performance indicators, investigate relationships between variables, and apply statistical modeling techniques.
 
 **Technologies:** Python, Dash, Plotly, Machine Learning.
